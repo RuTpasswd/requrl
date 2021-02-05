@@ -1,5 +1,4 @@
-mod request;
-mod response;
+mod http;
 
 #[cfg(test)]
 mod tests {
